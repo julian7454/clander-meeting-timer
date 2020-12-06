@@ -1,4 +1,4 @@
-# clander-meeting-timer
+# Calendar-meeting-timer
 方便計算會議時數，改編自官網範例文件
 https://developers.google.com/calendar/quickstart/js
 
